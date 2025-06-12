@@ -1,0 +1,32 @@
+{
+    "name": "VireonAI Coin",
+    "symbol": "VAI",
+    "description": "$VAI is the official community token of VireonAI, the all-in-one AI platform for creators, entrepreneurs, and developers. Built on the Solana blockchain, $VAI fuels engagement, rewards loyal users, and brings decentralized utility to the Vireon ecosystem.",
+    "image": "https://raw.githubusercontent.com/asimeo1/token-assets/main/Vireon.png",
+    "external_url": "https://vireonai.com",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "AI Platform Token"
+        },
+        {
+            "trait_type": "Blockchain",
+            "value": "Solana"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/asimeo1/token-assets/main/Vireon.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "8cwF1sWFBDPeuXksTtSmyEAFeRkh4MnJyu2cVT9FsxRS",
+                "share": 100
+            }
+        ]
+    }
+} 
